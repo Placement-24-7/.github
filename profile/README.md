@@ -27,5 +27,7 @@ Three day miss:**That member wiil be removed from project.
 
 Sheet for problem solving: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 
+Start project----> 20/05/2024
+End project------> NULL
 
 All the best everyone,please try to do original work so that it can improve your problem solving skills.
